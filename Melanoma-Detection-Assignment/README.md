@@ -77,7 +77,7 @@ To build a multiclass classification model using a custom convolutional neural n
 
 
 ## Contact
-Created by [@buind85] 
+Created by [@buind85] - feel free to contact me!
 
 
 <!-- Optional -->
